@@ -76,6 +76,14 @@
   background: linear-gradient(125.17deg, #272727 0%, #11101d 100%);
 }
 
+.navbar {
+  position: fixed;
+  top: 0;
+  background-color: #11101d;
+  z-index: 100;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
 .box-shadow {
   box-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
 }
